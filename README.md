@@ -1,11 +1,11 @@
 # 13 Object-Relational Mapping (ORM): E-Commerce Back End
 
 ## Table of Contents:
-* [Description](https://github.com/T8886/12SQL-Employee-Tracker/blob/main/README.md#description)
-* [Visual Presentation](https://github.com/T8886/12SQL-Employee-Tracker/blob/main/README.md#visual-presentation)
-* [Built with](https://github.com/T8886/12SQL-Employee-Tracker/blob/main/README.md#builtwith)
-* [Installation](https://github.com/T8886/12SQL-Employee-Tracker/blob/main/README.md#installation)
-* [License](https://github.com/T8886/12SQL-Employee-Tracker/blob/main/README.md#license)
+* [Description](https://github.com/T8886/13ORM-E-Commerce-Back-End#description)
+* [Visual Presentation](https://github.com/T8886/13ORM-E-Commerce-Back-End#visual-presentation)
+* [Built with](https://github.com/T8886/13ORM-E-Commerce-Back-End#built-with)
+* [Installation](https://github.com/T8886/13ORM-E-Commerce-Back-End#installation)
+* [License](https://github.com/T8886/13ORM-E-Commerce-Back-End#license)
 
 ## Description
 The back end for e-commerce website that uses the latest technologies was created for managers at an internet retail companies so that companies can compete with other e-commerce companies. 
