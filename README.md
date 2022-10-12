@@ -18,7 +18,7 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia THEN I am able to succe
 
 ## Visual Presentation
 https://vimeo.com/759396952
-<iframe src="https://player.vimeo.com/video/759396952?h=c305b167c7" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+[video](<iframe src="https://player.vimeo.com/video/759396952?h=c305b167c7" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>)
 
 ## Installation
 * Node.js
