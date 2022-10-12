@@ -8,7 +8,8 @@
 * [License](https://github.com/T8886/12SQL-Employee-Tracker/blob/main/README.md#license)
 
 ## Description
-The back end for e-commerce website that uses the latest technologies was created for managers at an internet retail companies so that companies can compete with other e-commerce companies.
+The back end for e-commerce website that uses the latest technologies was created for managers at an internet retail companies so that companies can compete with other e-commerce companies. 
+Challenge was created with the assistance of multiple tutors. Please review info below and view video.
 
 WHEN I add my database name, MySQL username, and MySQL password to an environment variable file THEN I am able to connect to a database using Sequelize.
 WHEN I enter schema and seed commands THEN a development database is created and is seeded with test data.
